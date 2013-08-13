@@ -33,15 +33,13 @@
                             Automata
                         </a>
                     </li>
-                    <li>
-                        <a href='#'>
-                            Project Euler
-                        </a>
-                    </li>
                 </ul>
             </li>
-            
-
+            <li>
+                <a href="#">
+                    Project Euler
+                </a>
+            </li>
             <li>
                 <a href="#">
                     Contact Me
