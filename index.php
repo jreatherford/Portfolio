@@ -7,18 +7,21 @@ and open the template in the editor.
     <head>
         <title></title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-                <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-        <link href="css/clean.css" rel="stylesheet" media="screen">
+        <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     </head>
         <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <body>
+        
+        <div class='container' align='center'>
+        <?php include "header.php"?>
         
         <div id="myCarousel" class="carousel slide">
             <ol class="carousel-indicators">
               <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
               <li data-target="#myCarousel" data-slide-to="1"></li>
               <li data-target="#myCarousel" data-slide-to="2"></li>
+              <li data-target="#myCarousel" data-slide-to="3"></li>
             </ol>
             
             <!-- Carousel items -->
@@ -49,11 +52,23 @@ and open the template in the editor.
                   </div>  
                 </div>
                 
+               <div class="item">
+                  <img src="img/code.png">
+                  <div class="carousel-caption">
+                      <p><b>Automata Project</b>
+                      <p> Mini-P Scanner & Parser
+                  </div>  
+                </div>
+                
             </div>
             
             <!-- Carousel nav -->
             <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
             <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+        </div>
+            
+            <?php include "footer.php"?>
+            
         </div>
     </body>
 </html>
