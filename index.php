@@ -26,38 +26,48 @@ and open the template in the editor.
             
             <!-- Carousel items -->
             <div class="carousel-inner">
-              <div class="active item">
-                  <img src="img/moon.png">
-                  <div class="carousel-caption">
-                      <p>Solar System Project
-                      <p> Solar System Educational Tool
-                  </div>  
+                
+                
+                    <div class="active item">
+                        <a href="space.php">
+                        <img src="img/moon.png">
+                        <div class="carousel-caption">
+                            <p>Solar System Project
+                            <p> Solar System Educational Tool
+                        </div>  
+                </a>
               </div>
                 
                <div class="item">
-                  <img src="img/SE.png">
-                  <div class="carousel-caption">
-                      <p><b>Software Engineering Project 2013</b>
-                      <p> College Schedule Management System
-                  </div>
+                   <a href="se.php">
+                        <img src="img/SE.png">
+                        <div class="carousel-caption">
+                            <p><b>Software Engineering Project 2013</b>
+                            <p> College Schedule Management System
+                        </div>
+                    </a>
                 </div>
                 
                 
                 
                <div class="item">
-                  <img src="img/spark.png">
-                  <div class="carousel-caption">
-                      <p><b>The Spark</b>
-                      <p> Planechase Simulator
-                  </div>  
+                   <a href="spark.php">
+                        <img src="img/spark.png">
+                        <div class="carousel-caption">
+                            <p><b>The Spark</b>
+                            <p> Planechase Simulator
+                        </div>  
+                    </a>
                 </div>
                 
                <div class="item">
-                  <img src="img/code.png">
-                  <div class="carousel-caption">
-                      <p><b>Automata Project</b>
-                      <p> Mini-P Scanner & Parser
-                  </div>  
+                  <a href="automata.php">
+                    <img src="img/code.png">
+                    <div class="carousel-caption">
+                        <p><b>Automata Project</b>
+                        <p> Mini-P Scanner & Parser
+                    </div>
+                  </a>
                 </div>
                 
             </div>

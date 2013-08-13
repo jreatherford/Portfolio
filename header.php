@@ -14,34 +14,39 @@
                 </a>
                 <ul class="dropdown-menu">
                     <li>
-                        <a href='#'>
+                        <a href='space.php'>
                             Solar System
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='spark.php'>
                             The Spark
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='se.php'>
                             Software Engineering
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='automata.php'>
                             Automata
                         </a>
                     </li>
                 </ul>
             </li>
             <li>
-                <a href="#">
+                <a href="about.php">
+                    About
+                </a>
+            </li>
+            <li>
+                <a href="euler.php">
                     Project Euler
                 </a>
             </li>
             <li>
-                <a href="#">
+                <a href="contact.php">
                     Contact Me
                 </a>
             </li>
