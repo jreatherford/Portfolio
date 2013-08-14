@@ -2,9 +2,13 @@
     James Reatherford
 </h1>
 
+<h3>
+    I <i>am</i> the droid you are looking for...
+</h3>
+
 <div class="navbar">
     <div class="navbar-inner">
-        <a class="brand" href="index.php">Navigation</a>
+        <a class="brand" href="index.php">Home</a>
         <ul class="nav">
             
             <li class="dropdown">
