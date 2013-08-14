@@ -44,18 +44,29 @@ and open the template in the editor.
                       </li>
                     </ul>
                     
-                    <<!-- Things go here-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et enim dui. Pellentesque id tincidunt lacus. Cras aliquet rhoncus leo ut elementum. Donec pellentesque iaculis iaculis. Nam at massa lorem. Pellentesque vel lobortis nisl. Curabitur sagittis turpis eget dignissim adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean eu dolor vel libero suscipit elementum ut sed orci. Etiam faucibus semper justo id sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ac sem eget est condimentum mollis et ac eros. Quisque ut scelerisque nisi.
-        <p>
-        Nulla nisi libero, tristique convallis mi vitae, pharetra euismod risus. Morbi vitae nisl ligula. Nulla elit nunc, porta vitae adipiscing ut, consectetur vitae justo. Sed pellentesque justo non felis congue laoreet vel vel tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent tincidunt mauris vel leo ullamcorper euismod. Nulla nec porttitor nibh. Etiam vestibulum fringilla tortor, et porttitor eros venenatis vel. Sed a nunc elementum, vestibulum massa ut, placerat mauris. Mauris pulvinar nec nulla eget gravida. In hac habitasse platea dictumst. Aliquam in ante vitae lacus venenatis pellentesque. Quisque interdum sapien enim, ut gravida quam tempor sed.
-        
-        <br><br><br>
+                    <div align ='left'>
+                        
+                    <p>Out of all the projects I had to do while earning my CS degree, this was my second favorite.
+                        (My favorite project was a Genetic Algorithm project for my AI class.  Unfortunately, I no longer have the
+                         source code for it)
                     
+                    <p>For my Automata Theory and Compiler Construction class, we were given the BNF for a small language.  It was a
+                        subset of Pascal called Mini-P.  We simply had to write a Scanner and Parser that would check if the input file
+                        was a valid program in the language.
+                        
+                    <p>The program was to be written in C.
+                        
+                    <p>Sadly, one semester was not long enough for us to be able to code generation so that Mini-P ran through the program could be executed.
+                       However, this project has made me quite interested in Automata theory and I have many ideas for future side projects involving it.  
+                       (Who knows, I may even pick this program back up and try to add code generation)
+                        
+                    </div>
+                    <br><br><br>
+                    <?php include "footer.php"?> 
                 </div>
             </div>
         </div>
             
-        <?php include "footer.php"?>
         </div>
     </body>
 </html>

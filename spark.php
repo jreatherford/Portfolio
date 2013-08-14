@@ -52,18 +52,35 @@ and open the template in the editor.
                       </li>
                     </ul>
                     
-                    <!-- Things go here-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et enim dui. Pellentesque id tincidunt lacus. Cras aliquet rhoncus leo ut elementum. Donec pellentesque iaculis iaculis. Nam at massa lorem. Pellentesque vel lobortis nisl. Curabitur sagittis turpis eget dignissim adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean eu dolor vel libero suscipit elementum ut sed orci. Etiam faucibus semper justo id sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ac sem eget est condimentum mollis et ac eros. Quisque ut scelerisque nisi.
-        <p>
-        Nulla nisi libero, tristique convallis mi vitae, pharetra euismod risus. Morbi vitae nisl ligula. Nulla elit nunc, porta vitae adipiscing ut, consectetur vitae justo. Sed pellentesque justo non felis congue laoreet vel vel tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent tincidunt mauris vel leo ullamcorper euismod. Nulla nec porttitor nibh. Etiam vestibulum fringilla tortor, et porttitor eros venenatis vel. Sed a nunc elementum, vestibulum massa ut, placerat mauris. Mauris pulvinar nec nulla eget gravida. In hac habitasse platea dictumst. Aliquam in ante vitae lacus venenatis pellentesque. Quisque interdum sapien enim, ut gravida quam tempor sed.
-        
-        <br><br><br>
-                    body
+                    <div align ='left'>
+                        
+                    <p>The only thing I like as much as staying up all night working on a programming project is staying up all night
+                        playing Magic: The Gathering with my friends.  Planechase, if you are not familar with MTG, is a special variant
+                        of the game that employs a small deck of giant cards (the Planechase cards).  
+                        
+                     <p>It is a very popular variant with my friends,
+                        but we get tired of using the same planechase cards over and over.  One night, a friend asked me a question.
+                        I don't remember the exact wording of the question, but it went something like this: "James, why can't you write a 
+                        program that can act as a planechase deck and get information for all the planechase cards from the internet?"
+                        
+                     <p>I could not think of an answer.  The data is out there.  I know how to code.  There really was no reason to not write the program...
+                         
+                     <p>...and thus, the spark was born!
+                         
+                     <p>The program uses PHP to scan the official MTG database of cards for planechase cards and keeps an index of hyperlinks to each planechase card's information
+                         page.  It then randomly picks a card anytime the user clicks "planeswalk" and displays a picture of the card that acts as a link to the card's page.
+                         Additionally the site features a simulated "planar die" for the players to roll (it's part of the game mode).
+                         
+                     <p>I had to get my friend <a href='https://github.com/tlindsay'>Patrick</a> to help me out with a little of the styling (this was my first
+                         real experience with CSS) but we managed to get it looking great.  And my friends, love it.
+                        
+                    </div>
+                    <br><br><br>
+                    <?php include "footer.php"?>
                 </div>
             </div>
         </div>
-            
-        <?php include "footer.php"?>
+
         </div>
     </body>
 </html>
