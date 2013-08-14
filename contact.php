@@ -16,7 +16,20 @@ and open the template in the editor.
         <div class='container' align='center'>
         <?php include "header.php"?>
 
-        <!-- Things go here-->
+            <h2>
+                Interested? <br>
+            </h2>
+            <h3>
+                Let me know! <br>
+            </h3>
+            <h5>
+                Email: jamesreatherford@gmail.com <br>
+                Phone: (931) 332 5636 <br>
+                Github: https://github.com/jreatherford<br>
+            </h5>
+
+                
+            
             
         <?php include "footer.php"?>
         </div>

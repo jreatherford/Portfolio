@@ -16,7 +16,25 @@ and open the template in the editor.
         <div class='container' align='center'>
         <?php include "header.php"?>
 
-        <!-- Things go here-->
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="span2">
+                    <!--Sidebar content-->
+                    
+                   <button class="btn btn-large" type="button">
+                        <a href ="https://github.com/jreatherford/SoftwareEngineeringProject">
+                            View the source
+                        </a>
+                    </button>
+                    
+                    
+                </div>
+                <div class="span10">
+                    <!--Body content-->
+                    body
+                </div>
+            </div>
+        </div>
             
         <?php include "footer.php"?>
         </div>
