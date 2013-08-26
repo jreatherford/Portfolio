@@ -58,11 +58,6 @@
                 </a>
             </li>
             <li>
-                <a href="euler.php">
-                    Project Euler
-                </a>
-            </li>
-            <li>
                 <a href="contact.php">
                     Contact Me
                 </a>
