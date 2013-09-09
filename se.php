@@ -20,11 +20,11 @@
 
                         <!--Sidebar Buttons-->
                         <div class="span2">
-                            <button class="btn btn-large" type="button">
-                                <a href ="https://github.com/jreatherford/SoftwareEngineeringProject">
+                            <a href ="https://github.com/jreatherford/SoftwareEngineeringProject">
+                                <button class="btn btn-large" type="button">
                                     View the source
-                                </a>
-                            </button>
+                                </button>
+                            </a>
                         </div>
 
                         <!--Main window content-->

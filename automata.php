@@ -19,11 +19,13 @@
                     
                     <!--Sidebar buttons-->
                     <div class="span2">
-                        <button class="btn btn-large" type="button">
-                            <a href ="https://github.com/jreatherford/AutomataProject">
+
+                        <a href ="https://github.com/jreatherford/AutomataProject">
+                            <button class="btn btn-large" type="button">
                                 View the source
-                            </a>
-                        </button>
+                            </button>
+                        </a>
+                        
                     </div>
                     
                     <!--Main window content-->

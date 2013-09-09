@@ -19,11 +19,12 @@
                     
                     <!--Sidebar buttons-->
                     <div class="span2">
-                        <button class="btn btn-large" type="button">
-                            <a href ="http://mtg.jreatherford.com/">
+                         <a href ="http://mtg.jreatherford.com/">
+                             <button class="btn btn-large" type="button">
                                 Visit the Site
-                            </a>
-                        </button>
+                            </button>
+                        
+                        </a>
 
                         <br> <br>
 

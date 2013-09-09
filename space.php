@@ -20,19 +20,19 @@
                     
                     <!--Sidebar Buttons-->
                     <div class="span2">
-                        <button class="btn btn-large" type="button">
-                            <a href ="https://github.com/jreatherford/SolarSystem">
+                        <a href ="https://github.com/jreatherford/SolarSystem">
+                            <button class="btn btn-large" type="button">
                                 View the source
-                            </a>
-                        </button>
+                            </button>
+                        </a>
 
                         <br> <br>
 
-                        <button class="btn btn-large" type="button">
-                            <a href="content/system.jar" download = "SolarSystem.jar">
+                        <a href="content/system.jar" download = "SolarSystem.jar">
+                            <button class="btn btn-large" type="button">
                                 Download the Original Java Program
-                            </a>
-                        </button>
+                            </button>
+                        </a>
                     </div>
                     
                     <!-- Main window content-->
