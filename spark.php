@@ -1,7 +1,7 @@
 <!DOCTYPE html5>
 <html>
     <head>
-        <title></title>
+        <title>The Spark - James Reatherford</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     </head>
