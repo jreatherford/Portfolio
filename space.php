@@ -17,9 +17,20 @@
 
             <div class="container-fluid">
                 <div class="row-fluid">
+ 
+   
                     
                     <!--Sidebar Buttons-->
                     <div class="span2">
+                        
+                        <a href ="http://space.jreatherford.com/">
+                            <button class="btn btn-large" type="button">
+                                Visit the site
+                            </button>
+                        </a>
+                        
+                        <br> <br>
+                        
                         <a href ="https://github.com/jreatherford/SolarSystem">
                             <button class="btn btn-large" type="button">
                                 View the source
@@ -69,10 +80,10 @@
                             Between working on projects for our CS courses and working at our jobs, we did not put the time into the project that we felt it deserved.
                             It just felt a little rushed.
 
-                            <p>Therefore, I have decided to remake the project.  It will be reimagined as a web based program and improved upon.
+                            <p>Therefore, I have decided to remake the project in my spare time.  It will be reimagined as a web based program and improved upon.
 
-                            <p>Unfortunately, at the time of writing this project is still in development.  However, if you are interested, you can see my work in progress
-                            by checking out <a href ="https://github.com/jreatherford/SolarSystem">my github repository on the program</a>.  Also, I am putting 
+                            <p>At the time of writing this project is still in development.  However, if you are interested, you can <a href="http://space.jreatherford.com/">see my work in progress</a>
+                            or check out <a href ="https://github.com/jreatherford/SolarSystem">my github repository on the program</a>.  Also, I am putting 
                             <a href="content/system.jar" download = "SolarSystem.jar">the original java program</a> up for download as well.
                         </div>
                         
